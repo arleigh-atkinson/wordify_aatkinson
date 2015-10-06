@@ -6,12 +6,12 @@ require 'wordify_aatkinson/version'
 Gem::Specification.new do |spec|
   spec.name          = "wordify_aatkinson"
   spec.version       = WordifyAatkinson::VERSION
-  spec.authors       = ["arleigh.atkinson"]
+  spec.authors       = ["arleigh-atkinson"]
   spec.email         = ["arleigh.atkinson@gmail.com"]
 
   spec.summary       = %q{Practice creating a gem}
   spec.description   = %q{Creating a gem to demo creating a gem!}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/arleigh-atkinson/wordify_aatkinson"
   spec.license       = "MIT"
 
 
